@@ -1,0 +1,9 @@
+/* ldg 这个全局样式，要慎重，要搞清楚了才能设置 */
+/* 把系统缺省的设置先注释 */
+
+body {
+  margin:0px;
+  padding:0px; 
+  overflow:hidden;
+}
+
